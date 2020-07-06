@@ -6,7 +6,7 @@ import './models/meal.dart';
 const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
-    title: 'Italian',
+    title: 'Indian',
     color: Colors.purple,
   ),
   Category(
